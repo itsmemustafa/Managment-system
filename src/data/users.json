@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "email": "bryon_vonrueden57@elryan.com",
+    "password": "OtW3wJF918XRHbG",
+    "role": "USER",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "email": "ericka79@elryan.com",
+    "password": "C1OuEA3bBUgk19W",
+    "role": "SUPERVISOR",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "email": "jaycee9@elryan.com",
+    "password": "K9Zkql2TnK3eG0F",
+    "role": "SUPERVISOR",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "email": "stephan_lesch@elryan.com",
+    "password": "ZSrTCstLmaBV_2F",
+    "role": "SUPERVISOR",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "email": "marcelino.wisoky24@elryan.com",
+    "password": "MiaQ0g_Jr_IUXk9",
+    "role": "USER",
+    "isActive": true
+  },
+  {
+    "id": 6,
+    "email": "rudy.gorczany47@elryan.com",
+    "password": "uqpizemgMezme9b",
+    "role": "SUPERVISOR",
+    "isActive": true
+  },
+  {
+    "id": 7,
+    "email": "camille43@elryan.com",
+    "password": "5fIqLXXE1lR9a1i",
+    "role": "USER",
+    "isActive": true
+  },
+  {
+    "id": 8,
+    "email": "orlo44@elryan.com",
+    "password": "PY2OMcR9D5hUpz8",
+    "role": "SUPERVISOR",
+    "isActive": true
+  },
+  {
+    "id": 9,
+    "email": "janessa.lehner@elryan.com",
+    "password": "iLStWOzGlU5y5T1",
+    "role": "USER",
+    "isActive": true
+  },
+  {
+    "id": 10,
+    "email": "ramiro.kautzer24@elryan.com",
+    "password": "eAqkmB9ibAfEz_r",
+    "role": "USER",
+    "isActive": true
+  }
+  ,  {
+    "id": 11,
+    "email": "mostafa@elryan.com",
+    "password": "1111",
+    "role": "ADMIN",
+    "isActive": true
+  }
+]
