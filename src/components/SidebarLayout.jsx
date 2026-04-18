@@ -1,6 +1,6 @@
 import React from "react";
 import { TextAnimate } from "@/components/ui/text-animate";
-import logo from "@/assets/elryanlogo.png";
+import logo from "@/assets/elryanLogo.png";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import getUser from "../Utils/getUser";
 import { BubbleBackground } from "@/components/animate-ui/components/backgrounds/bubble";
